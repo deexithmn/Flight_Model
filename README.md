@@ -1,1 +1,1 @@
-# Flight_Model
+A simple Flight model implemented using PHP and SQL. Web pages are designed using HTML and CSS. Data base connections are obtained using PHP.
